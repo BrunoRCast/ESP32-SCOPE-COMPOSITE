@@ -24,6 +24,10 @@ Em Boards Manager a versão de esp32 by Espressif System precisa ser no máximo 
 
 Sim, utilizei IA, mas mesmo assim levei dois dias pra fazer funcionar e de momento vai ficar assim.  
 
+Explore o código, utilize o terminal serial para os comandos, digite help e ele irá lhe fornecer a lista de comandos.  
+
+um core é responsável por coletar os sinais analógicos enquanto o outro se fica com a geração de sinais de vídeo. 
+
 No mais...  
 
 Haduuukeen ༼つಠ益ಠ༽つ ─=≡ΣO))  
