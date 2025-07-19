@@ -1,6 +1,8 @@
 # ESP32-SCOPE-COMPOSITE
-Brincadeira de transformar um esp32 em um osciloscópio de 4 canais claramente inspirado no tds420 da tektronix e utilizando uma tv de tubo (CRT) como display, porque toda pessoa deve ter uma tv de tubo em casa(afirmação)... E um osciloscópio!
-(⌐⊙_⊙)
+Brincadeira de transformar um esp32 em um osciloscópio de 4 canais claramente inspirado no tds420 da tektronix e utilizando uma tv de tubo (CRT) como display, porque toda pessoa deve ter uma tv de tubo em casa(afirmação)... E um osciloscópio!  
+
+(⌐⊙_⊙)  
+
 Pino 25 gera sinal de vídeo composto, não é necessário colocar resistor, comigo funcionou sem em 3 TVs e 2 Leitores de VHS.
 Pinos 39(VP), 36(VN), 34, 35 são os canais do osciloscópio.
 //------------------------------
@@ -13,3 +15,4 @@ Em Boards Manager a versão de esp32 by Espressif System precisa ser no máximo 
 Sim, utilizei IA, mas mesmo assim levei dois dias pra fazer funcionar e de momento vai ficar assim.
 No mais...
 Haduuukeen ༼つಠ益ಠ༽つ ─=≡ΣO))
+<img width="1599" height="777" alt="image" src="https://github.com/user-attachments/assets/a9451119-3ee5-4029-acc1-05e854da6430" />
